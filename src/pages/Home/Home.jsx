@@ -114,7 +114,7 @@ const Home = () => {
                 </div>
                 <img
                   className="img-fluid"
-                  src="../../src/assets/img/que-me-representa2.jpg"
+                  src="que-me-representa2.jpg"
                   alt="..."
                 />
               </div>
@@ -134,7 +134,7 @@ const Home = () => {
                 </div>
                 <img
                   className="img-fluid"
-                  src="../../src/assets/img/de-donde-vengo.jpg"
+                  src="de-donde-vengo.jpg"
                   alt="..."
                 />
               </div>
@@ -154,7 +154,7 @@ const Home = () => {
                 </div>
                 <img
                   className="img-fluid"
-                  src="../../src/assets/img/a-donde-voy.jpg"
+                  src="a-donde-voy.jpg"
                   alt="..."
                 />
               </div>
@@ -174,7 +174,7 @@ const Home = () => {
                 </div>
                 <img
                   className="img-fluid"
-                  src="../../src/assets/img/quien-soy2.jpg"
+                  src="quien-soy2.jpg"
                   alt="..."
                 />
               </div>
@@ -306,7 +306,7 @@ const Home = () => {
                       <div className="row g-0">
                         <div className="col-md-4">
                           <img
-                            src="../../src/assets/img/robotics.jpg"
+                            src="robotics.jpg"
                             className="img-fluid card-image rounded-start"
                             alt="..."
                           />
@@ -342,7 +342,7 @@ const Home = () => {
                         </div>
                         <div className="col-md-4">
                           <img
-                            src="../../src/assets/img/silent_hill_o.jpg"
+                            src="silent_hill_o.jpg"
                             className="img-fluid card-image rounded-end"
                             alt="..."
                           />
@@ -394,7 +394,7 @@ const Home = () => {
                       <div className="row g-0">
                         <div className="col-md-4">
                           <img
-                            src="../../src/assets/img/fam1.jpg"
+                            src="fam1.jpg"
                             className="img-fluid card-image rounded-start"
                             alt="..."
                           />
@@ -425,21 +425,21 @@ const Home = () => {
                 <Row className="justify-content-center mb-3">
                   <Col xs={12} md={4}>
                     <img
-                      src="../../src/assets/img/rockefort.jpg"
+                      src="rockefort.jpg"
                       className="card-image-1 rounded"
                       alt="..."
                     />
                   </Col>
                   <Col xs={12} md={4}>
                     <img
-                      src="../../src/assets/img/latte1.jpg"
+                      src="latte1.jpg"
                       className="card-image-1 rounded"
                       alt="..."
                     />
                   </Col>
                   <Col xs={12} md={4}>
                     <img
-                      src="../../src/assets/img/collage1.jpg"
+                      src="collage1.jpg"
                       className="card-image-1 rounded"
                       alt="..."
                     />
@@ -488,7 +488,7 @@ const Home = () => {
                       <div className="row g-0">
                         <div className="col-md-4">
                           <img
-                            src="../../src/assets/img/dummy2.jpg"
+                            src="dummy2.jpg"
                             className="img-fluid card-image rounded-start"
                             alt="..."
                           />
@@ -523,7 +523,7 @@ const Home = () => {
                         </div>
                         <div className="col-md-4">
                           <img
-                            src="../../src/assets/img/que-me-representa.jpg"
+                            src="que-me-representa.jpg"
                             className="img-fluid card-image rounded-end"
                             alt="..."
                           />
@@ -575,7 +575,7 @@ const Home = () => {
                       <div className="row g-0">
                         <div className="col-md-4">
                           <img
-                            src="../../src/assets/img/representa1.jpg"
+                            src="representa1.jpg"
                             className="img-fluid card-image rounded-start"
                             alt="..."
                           />
@@ -611,7 +611,7 @@ const Home = () => {
                         </div>
                         <div className="col-md-4">
                           <img
-                            src="../../src/assets/img/representa2.jpg"
+                            src="representa2.jpg"
                             className="img-fluid card-image rounded-end"
                             alt="..."
                           />
