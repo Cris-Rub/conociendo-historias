@@ -78,7 +78,7 @@ const Home = () => {
           </div>
           {/* Masthead Subheading*/}
           <p className="masthead-subheading font-weight-light mb-0">
-            ¿Quién soy? - ¿De dónde vengo? - ¿A donde voy? - ¿Qué me representa?
+            ¿Quién soy? - ¿De dónde vengo? - ¿A dónde voy? - ¿Qué me representa?
           </p>
         </div>
       </header>
@@ -211,7 +211,7 @@ const Home = () => {
               <p className="lead">
                 Cuento con conocimientos en circuitos eléctronicos; herramientas
                 como HTML5, CSS, lenguajes de programación como Python, C,
-                Javascript y Matlab. Mis intereses más grandes son la ecnología
+                Javascript y Matlab. Mis intereses más grandes son la tecnología
                 y la automatización.
               </p>
             </div>
@@ -338,6 +338,7 @@ const Home = () => {
                               gatos, el baile y la tecnología son mis más
                               grandes pasiones.
                             </p>
+                            <p className="card-text"><small className="text-muted">Resident Evil, Silent Hill, Amnesia...</small></p>
                           </div>
                         </div>
                         <div className="col-md-4">
@@ -501,6 +502,7 @@ const Home = () => {
                               conocimientos, ahora mismo mi prioridad son mis
                               habilidades profesionales.
                             </p>
+                            <p className="card-text"><small className="text-muted">"Nuestra mayor debilidad reside en rendirnos. La forma más segura de tener éxito es intentarlo una vez más". (Thomas A. Edison)</small></p>
                           </div>
                         </div>
                       </div>
@@ -588,6 +590,7 @@ const Home = () => {
                               sueños, soy una persona que nunca quiere dejar de
                               seguir aprendiendo.
                             </p>
+                            <p className="card-text"><small className="text-muted">"Los que no pueden recordar el pasado están condenados a repetirlo.". (George Santayana)</small></p>
                           </div>
                         </div>
                       </div>
