@@ -61,7 +61,7 @@ const Home = () => {
           <img
             className="masthead-avatar mb-5"
             id="img-avatar"
-            src="public\memememe.jpg"
+            src="memememe.jpg"
             alt="..."
           />
           {/* Masthead Heading*/}
